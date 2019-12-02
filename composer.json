@@ -1,0 +1,18 @@
+{
+  "name": "aarailfan/div2_email",
+  "description": "A Drupal 8 module that provides all the email customizations for https://www.tipofthemitt.ncr-nmra.org.",
+  "type": "drupal-module",
+  "license": "GPL-2.0",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/aarailfan/div2_email"
+    }
+  ],
+  "authors": [
+    {
+      "name": "David Simmons",
+      "role": "Maintainer"
+    }
+  ]
+}

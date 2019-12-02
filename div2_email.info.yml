@@ -1,0 +1,6 @@
+name: Tip of the Mitt  Division Email Module
+description: This module provides all the email customizations for https://www.tipofthemitt.ncr-nmra.org.
+package: Custom
+
+type: module
+core: 8.x
